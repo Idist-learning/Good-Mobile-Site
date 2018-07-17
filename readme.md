@@ -11,7 +11,7 @@ Google và AnswerLab tiến hành một [nghiên cứu] để trả lời câu h
 
 > Người dùng các thiết bị di động thường có mục tiêu nhất định. Họ hi vọng có thể nhận được những thứ họ cần ngay lập tức theo cách riêng của họ.
 
-Quá trình nghiên cứu được thực hiện trong suốt 119 giờ liền, với các phiên làm việc có khả năng sử dụng trực tiếp với mỗi người tham gia nghiên cứu tại US. Những người tham gia được yêu cầu thực hiện các nhiệm vụ trên một tập hợp các trang web cho thiết bị di động. Bao gồm có người dùng iOS và Android và các người dùng này kiểm tra các trang web trên các thiết bị di động của họ. Với mỗi site, những người tham gia được yêu cầu nói to các suy nghĩ của mình khi họ hoàn thành các chuyển đổi nhiệm vụ tập trung như việc thực hiện mua hàng hay đặt phòng.
+Quá trình nghiên cứu được thực hiện trong suốt 119 giờ liền, với các phiên làm việc có khả năng sử dụng trực tiếp với mỗi người tham gia nghiên cứu tại US. Những người tham gia được yêu cầu thực hiện các nhiệm vụ trên một tập hợp các trang web cho thiết bị di động. Bao gồm có người dùng iOS và Android và các người dùng này kiểm tra các trang web trên các thiết bị di động của họ. Với mỗi site, những người tham gia được yêu cầu trình bày các suy nghĩ của mình khi họ hoàn thành các nhiệm vụ chuyển đổi-tập trung như việc thực hiện mua hàng hay đặt phòng.
 
 Quá trình nghiên cứu phát hiện ra 25 tiêu chuẩn về thiết kế site cho thiết bị di động, được nhóm lại thành 5 mục.
 
@@ -21,7 +21,7 @@ Quá trình nghiên cứu phát hiện ra 25 tiêu chuẩn về thiết kế sit
 
 ### Giữ lại các lời gọi ở trước và giữa
 
-Thực hiện các tác vụ tiếp theo thông qua [menu][3] hoặc 'từ màn hình đầu tiên' (một phần của trang web không thể xem nếu không cuộn xuống).
+Thực hiện các tác vụ tiếp theo thông qua [menu][3] hoặc 'below the fold' (một phần của trang web không thể xem nếu không cuộn xuống).
 
 
 ![][4]**Thực hiện**: Làm cho các tác vụ phổ biến nhất của người dùng dễ dàng sử dụng nhất.
@@ -42,7 +42,7 @@ Người dùng mong muốn có thể quay lại trang chủ khi họ bấm vào 
 
 ### Đừng để quảng cáo che mất phần nội dung
 
-Ứng dụng lớn có cài đặt quảng cáo ( ví dụ như các quảng cáo chiếm toàn bộ màn hình và đề xuất người dùng cài đặt ứng dụng) làm phiền người dùng và khiến cho việc thực hiện các tác vụ trở lên khó khăn hơn. Ngoài việc gây khí chịu tới người dùng, [các trang web sử dụng quảng cáo xen kẽ cũng có thể thấy các tác động tiêu cực đến thứ hạng tìm kiếm của họ][8].
+Ứng dụng lớn có cài đặt quảng cáo ( ví dụ như các quảng cáo chiếm toàn bộ màn hình và đề xuất người dùng cài đặt ứng dụng) làm phiền người dùng và khiến cho việc thực hiện các tác vụ trở lên khó khăn hơn. Ngoài việc gây khó chịu tới người dùng, [các trang web sử dụng quảng cáo xen kẽ cũng có thể thấy các tác động tiêu cực đến thứ hạng tìm kiếm của họ][8].
 
 ![][9]**Thực hiện**: Quảng cáo phải dễ dàng loại bỏ và không làm ảnh hưởng tới trải nghiệm người dùng.
 
@@ -91,7 +91,7 @@ Những người tham gia nghiên cứu dựa vào [bộ lọc][16] để tìm n
 
 ### Cho phép người dùng tìm hiểu trước khi họ commit
 
-Những người tham gia nghiên cứu cảm thấy thất vọng khi các trang web yêu cầu đăng ký trước khi xem được site, đặc biệt là đối với các thương hiệu không quen thuộc. Mặc dù thông tin khách hàng có thể được bảo mật bởi doanh nghiệp của bạn, nhưng việc yêu cầu nó sớm quá dẫn tới kết quả có ít đăng ký hơn.
+Những người tham gia nghiên cứu cảm thấy thất vọng khi các trang web yêu cầu đăng ký trước khi xem được site, đặc biệt là đối với các thương hiệu không quen thuộc. Mặc dù thông tin khách hàng có thể quan trọng với việc kinh doanh của bạn nhưng việc yêu cầu nó sớm quá dẫn tới kết quả có ít đăng ký hơn.
 
 ![][20]**DO**: Cho phép người dùng duyệt qua web không cần đăng nhập.
 
@@ -147,7 +147,6 @@ Nhập các nhãn đúng cách và xác thực đầu vào ngay tại thời gia
 Tận dụng [autofill] [31] để người dùng có thể dễ dàng hoàn thành form với dữ liệu được điền trước. Điền sẵn các trường có thông tin bạn đã biết. Ví dụ: khi truy xuất địa chỉ giao hàng và thanh toán, hãy thử sử dụng [`requestAutocomplete`] [32] hoặc cho phép người dùng sao chép địa chỉ giao hàng của họ đến địa chỉ thanh toán của họ (hoặc ngược lại).
 
 ## Khả năng sử dụng và các hệ số của form
-**Success:** Delight your mobile users with small things that enhance their experiences.
 **Success:** Làm hài lòng người dùng thiết bị di động với những điều nhỏ để nâng cao trải nghiệm của họ.
 
 ### Tối ưu hoá toàn bộ trang web của bạn cho thiết bị di động
@@ -179,7 +178,7 @@ Những người tham gia nghiên cứu có khuynh hướng ở cùng một hư�
 
 Người dùng có thể gặp sự cố khi chuyển đổi giữa các cửa sổ và có thể không tìm được đường quay lại trang web. Tránh gọi hành động khởi chạy cửa sổ mới. Xác định bất kỳ hành trình nào có thể khiến người dùng nhìn bên ngoài trang web của bạn và cung cấp các tính năng để giữ chúng trên trang web của bạn. Ví dụ: nếu bạn chấp nhận phiếu thưởng, hãy cung cấp phiếu thưởng trực tiếp trên trang web, thay vì buộc người dùng tìm kiếm các trang web khác cho giao dịch.
 
-### Tránh việc đánh nhãn "toàn bộ trang"
+### Tránh việc đánh nhãn "trang đầy đủ"
 
 Khi những người tham gia nghiên cứu thấy một tùy chọn cho "trang web đầy đủ" (nghĩa là trang web trên máy tính để bàn) so với "trang web dành cho thiết bị di động", họ cho rằng trang web trên điện thoại di động thiếu nội dung và chọn "đầy đủ" thay thế, hướng họ đến trang web dành cho máy tính để bàn.
 
