@@ -11,7 +11,7 @@ Google và AnswerLab tiến hành một [nghiên cứu] để trả lời câu h
 
 > Người dùng các thiết bị di động thường có mục tiêu nhất định. Họ hi vọng có thể nhận được những thứ họ cần ngay lập tức theo cách riêng của họ.
 
-Quá trình nghiên cứu được thực hiện trong suốt 119 giờ liền, với các phiên làm việc có khả năng sử dụng trực tiếp với mỗi người tham gia nghiên cứu tại US. Những người tham gia được yêu cầu thực hiện các nhiệm vụ trên một tập hợp các trang web cho thiết bị di động. Bao gồm có người dùng iOS và Android và các người dùng này kiểm tra các trang web trên các thiết bị di động của họ. Với mỗi site, những người tham gia được yêu cầu nói to các suy nghĩ của mình khi họ hoàn thành các chuyển đổi nhiệm vụ tập trung như việc thực hiện mua hàng hay đặt phòng.
+Quá trình nghiên cứu được thực hiện trong suốt 119 giờ liền, với các phiên làm việc sử dụng trực tiếp của những người tham gia nghiên cứu tại US. Những người tham gia được yêu cầu thực hiện các nhiệm vụ trên một tập hợp các trang web cho thiết bị di động. Bao gồm có người dùng iOS và Android và các người dùng này kiểm tra các trang web trên các thiết bị di động của họ. Với mỗi site, những người tham gia được yêu cầu nói to các suy nghĩ của mình khi họ hoàn thành các chuyển đổi nhiệm vụ tập trung như việc thực hiện mua hàng hay đặt phòng.
 
 Quá trình nghiên cứu phát hiện ra 25 tiêu chuẩn về thiết kế site cho thiết bị di động, được nhóm lại thành 5 mục.
 
@@ -24,7 +24,7 @@ Quá trình nghiên cứu phát hiện ra 25 tiêu chuẩn về thiết kế sit
 Thực hiện các tác vụ tiếp theo thông qua [menu][3] hoặc 'từ màn hình đầu tiên' (một phần của trang web không thể xem nếu không cuộn xuống).
 
 
-![][4]**Thực hiện**: Làm cho các tác vụ phổ biến nhất của người dùng dễ dàng sử dụng nhất.
+![][4]**Thực hiện**: Làm cho các tác vụ cơ bản của người dùng trở nên dễ dàng sử dụng nhất.
 
 ![][5]**Không được làm**: Lãng phí các khoảng không gian quý giá trên màn hình đầu tiên bằng các lời mời gọi như "tìm hiểu thêm". 
 
@@ -83,7 +83,7 @@ Những người tham gia nghiên cứu dựa vào [bộ lọc][16] để tìm n
 
 **DO**: Giúp người dùng tìm thấy những gì họ đang tìm kiếm bằng cách hướng dẫn họ đi đúng hướng.
 
-Đối với các trang web có các nhóm khách hàng đa dạng, hãy để một số câu hỏi trước khi hiển thị khung tìm kiếm, và sử dụng các phản hồi từ phía khách hàng như 1 bộ lọc các truy vấn để đảm bảo rằng người dùng thuộc mỗi nhóm nhận được các kết quả từ các nhóm một các thích hợp nhất.
+Đối với các trang web có các nhóm khách hàng đa dạng, hãy để một số câu hỏi trước khi hiển thị khung tìm kiếm, và sử dụng các phản hồi từ phía khách hàng như 1 bộ lọc các truy vấn để đảm bảo rằng người dùng thuộc mỗi nhóm nhận được các kết quả liên quan nhất.
 
 ## Thương mại và chuyển đổi
 
@@ -134,7 +134,7 @@ Sử dụng [một loạt các đầu vào thích hợp nhất] cho mỗi trư�
 
 ![][29]**DO**:sử dụng các widgets về lịch khi có thể.
 
-ghi rõ ngày bắt đầu và ngày kết thúc. Người dùng sẽ không cần rời khỏi trang web để kiểm tra ứng dụng lịch chỉ để lên lịch cho một ngày.
+ghi rõ ngày bắt đầu và ngày kết thúc.Không nên để người dùng khỏi trang web chỉ để kiểm tra ứng dụng lịch chỉ để lên lịch cho một ngày.
 
 ### Giảm thiểu các lỗi form với việc gán nhãn và xác thực theo thời gian thực
 
@@ -167,11 +167,11 @@ Người dùng cảm thấy thoải mái với các trang web cuộn theo chiề
 Khách hàng bán lẻ mong đợi các trang web cho phép họ [xem các kết xuất có độ phân giải cao] [37] của sản phẩm. Những người tham gia nghiên cứu cảm thấy thất vọng khi họ không thể thấy những gì họ đang mua.
 
 
-### Cho người dùng biết định hướng nào là tốt nhất
+### Cho người dùng biết hướng xoay nào là tốt nhất
 
-![][38]**DO**: Nói cho người dùng biết định hướng nào hoạt động tốt nhất
+![][38]**DO**: Nói cho người dùng biết hướng xoay nào hoạt động tốt nhất
 
-Những người tham gia nghiên cứu có khuynh hướng ở cùng một hướng màn hình cho đến khi có điều gì đó khiến họ chuyển đổi. Thiết kế cho cả cảnh quan và chân dung hoặc khuyến khích người dùng chuyển sang hướng tối ưu. Đảm bảo rằng lời gọi hành động quan trọng của bạn có thể được hoàn thành ngay cả khi người dùng bỏ qua đề xuất để chuyển hướng.
+Những người tham gia nghiên cứu có khuynh hướng ở cùng một hướng màn hình cho đến khi có điều gì đó khiến họ chuyển đổi. Thiết kế cho cả cảnh quan và chân dung hoặc khuyến khích người dùng chuyển sang hướng tối ưu. Đảm bảo rằng lời gọi hành động quan trọng của bạn có thể được hoàn thành ngay cả khi người dùng bỏ qua đề xuất để xoay màn hình.
  
 ### Giữ người dùng của bạn trong 1 cửa số trình duyệt duy nhất
 
@@ -179,13 +179,13 @@ Những người tham gia nghiên cứu có khuynh hướng ở cùng một hư�
 
 Người dùng có thể gặp sự cố khi chuyển đổi giữa các cửa sổ và có thể không tìm được đường quay lại trang web. Tránh gọi hành động khởi chạy cửa sổ mới. Xác định bất kỳ hành trình nào có thể khiến người dùng nhìn bên ngoài trang web của bạn và cung cấp các tính năng để giữ chúng trên trang web của bạn. Ví dụ: nếu bạn chấp nhận phiếu thưởng, hãy cung cấp phiếu thưởng trực tiếp trên trang web, thay vì buộc người dùng tìm kiếm các trang web khác cho giao dịch.
 
-### Tránh việc đánh nhãn "toàn bộ trang"
+### Tránh việc đánh nhãn "trang "
 
 Khi những người tham gia nghiên cứu thấy một tùy chọn cho "trang web đầy đủ" (nghĩa là trang web trên máy tính để bàn) so với "trang web dành cho thiết bị di động", họ cho rằng trang web trên điện thoại di động thiếu nội dung và chọn "đầy đủ" thay thế, hướng họ đến trang web dành cho máy tính để bàn.
 
 ### Hãy đưa ra lý do rõ ràng khi bạn cần vị trí của người dùng
 
-Người dùng phải luôn hiểu lý do tại sao bạn yêu cầu [location] [40] của họ. Những người tham gia nghiên cứu cố gắng đặt một khách sạn ở một thành phố khác trở nên bối rối khi một trang web du lịch phát hiện vị trí của họ và cung cấp các khách sạn ở thành phố hiện tại của họ thay thế. Để trống trường vị trí theo mặc định và cho phép người dùng chọn điền chúng thông qua lời gọi hành động rõ ràng như "Tìm gần tôi".
+Người dùng phải luôn hiểu lý do tại sao bạn yêu cầu [location] [40] của họ. Những người tham gia nghiên cứu cố gắng đặt một khách sạn ở một thành phố khác trở nên bối rối khi một trang web du lịch phát hiện vị trí của họ và cung cấp các khách sạn ở thành phố hiện tại họ đang ở. Để trống trường vị trí theo mặc định và cho phép người dùng chọn điền chúng thông qua lời gọi hành động rõ ràng như "Tìm gần tôi".
 
 ![][41]**DO**:Luôn yêu cầu quyền truy cập vào location trên gesture của người dùng
 
